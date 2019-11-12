@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-sectorbuilder
+module github.com/finalitylabs/go-sectorbuilder
 
 go 1.12
 
